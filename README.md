@@ -23,7 +23,7 @@ You can also drag and drop multiple .txt files (for example from a list of searc
 
 ## Compiling
 
-Open 'EqConverter.sln' in Visual Studio 2019. 
+Open `EqConverter.sln` in Visual Studio 2019. 
 
 Right-click on the Solution and choose **Restore NuGet Packages** before building for the first time.
 
