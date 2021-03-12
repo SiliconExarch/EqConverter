@@ -30,7 +30,7 @@ Right-click on the Solution and choose **Restore NuGet Packages** before buildin
 ## Credits
 [@Cashback-Git](https://github.com/Cashback-Git) for inspiration and motivation.
 
-[Command Line Parser](https://github.com/commandlineparser/commandline) for a great Library.
+[Command Line Parser](https://github.com/commandlineparser/commandline) for a great library.
 
 Davy Wentzler from [eXtreamSD](https://www.extreamsd.com/) for the excellent USB Audio Player Pro and help with Freq and Q calculation.
 
